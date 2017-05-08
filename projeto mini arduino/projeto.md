@@ -2,10 +2,10 @@
 José Matheus, Matheus Stutzel, Rodrigo Braga 
 
 # Projeto
-Programar uma versão do jogo Timberman do Android no arduino. 
+Programar uma versão do jogo [Timberman](https://play.google.com/store/apps/details?id=com.dm.timber&hl=pt_BR) do Android no arduino. 
 
 # Componentes
-Arduino 
+Arduino
 Tela com botões 
 
 # Linguagem
