@@ -1,5 +1,5 @@
 # Grupo
-José Matheus, Matheus Stutzel, Rodrigo Braga 
+[José Matheus](https://github.com/moghat/reativos), [Matheus Stutzel](https://github.com/matheusstutzel/reativos), [Rodrigo Braga](https://github.com/rbs758/reativos)
 
 # Projeto
 Programar uma versão do jogo [Timberman](https://play.google.com/store/apps/details?id=com.dm.timber&hl=pt_BR) do Android no arduino. 
